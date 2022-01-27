@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cayenne!
-- 👀 I’m interested in games.
+- 👀 I’m interested in MOBA games.
 - 🌱 I’m currently learning python and javascript.
 - 📫 Email me at cayenneezra.gagno@g.msuiit.edu.ph
 
