@@ -35,7 +35,6 @@ Tools I Have Used and Learned
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg
 </div>
 
 
