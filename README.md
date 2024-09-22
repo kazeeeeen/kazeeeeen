@@ -14,8 +14,15 @@ Currently, I'm expanding my skills in UI/UX design while actively working on a m
 
 📖: Currently learning Next.js, and Flutter.
 
+-----------------------------------------------------------------------------------------------
 
-Tools I Have Used and Learned
+### Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazeeeeen&theme=rose&border_radius=8&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1250&card_height=250&ring=EB5C73)](https://git.io/streak-stats)
+
+------------------------------------------------------------------------------------------------
+
+Tools I Have Used and Learned:
 ---------------------------------------------------------------------------------------------
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,6 +43,9 @@ Tools I Have Used and Learned
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
+
+--------------------------------------------------------------------------------------------------
+
 
 
 
